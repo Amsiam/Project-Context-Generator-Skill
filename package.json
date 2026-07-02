@@ -1,0 +1,20 @@
+{
+  "name": "project-context-generator-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill that transforms a project idea into a fully structured AI development context folder — with scalability, security, error handling, deployment, and workflow docs built in",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "project-context",
+    "ai-development",
+    "documentation",
+    "architecture"
+  ],
+  "author": "amsiam990@gmail.com",
+  "license": "MIT",
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
